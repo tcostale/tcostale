@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <meta name="author" content="Thomas Costales">
+        <meta name="description" content="">
+    </head>
+    <body>
+        <header>
+            <h1>/h1>
+        </header>
+        <main>
+           <p></p>
+        </main>   
+        <footer>
+            <p></p>
+        </footer>
+    </body>
+</html>
