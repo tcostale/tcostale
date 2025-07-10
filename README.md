@@ -14,24 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-        <meta name="author" content="Thomas Costales">
-        <meta name="description" content="">
-    </head>
-    <body>
-        <header>
-            <#h1>Test</#h1>
-            <h1></h1>
-        </header>
-        <main>
-           <p></p>
-        </main>   
-        <footer>
-            <p></p>
-        </footer>
-    </body>
-</html>
+HTML and Website design isn't necessarily my jam (as the great internet meme states, "I'm just a baby!"), but I do enjoy creative projects, and coding this kind of stuff has been a fun change of pace.
+
+What I'm really into is video and photography. I kind of consider myself a professional ameture, if that makes sense.
+
+You can see my photography at my incredibly outdated and semi-abandoned deviantart: here
+And you can see all the video projects and stuff I've been making over at my youtube: here
+
+The YouTube is WAY more active, and I've got some stuff I've worked on for school there, so check it out!
+Don't forget to like and subscribe!
+
+IF you want to get all professional, you can creep on my linkedin: here if you want. I'm not on there very much (yet) so it's a little bare.
+
+
+
+This one time, for one of the assignments in one of my classes, I drew two impossible shapes. It was incredibly difficult, but I'm very proud of them, and that's why I'm including a photo of each.
+
+Look at them. They're amazing.
