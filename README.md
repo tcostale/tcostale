@@ -23,3 +23,10 @@ I'm attending ASU through Starbucks College Achievement Plan, where I have been 
 
 ## Oh wow, look at this:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tcostale&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+I added a widget! Isn't that cool?
+
+...Ha ha, these stats are so unimpressive.
+
+### Thanks for visiting
+I hope you have a great day and an even better week!
