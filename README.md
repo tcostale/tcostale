@@ -27,9 +27,9 @@ What I'm really into is video and photography. I kind of consider myself a profe
 
 ### Links and Profiles
 
+- You can see all the video projects and stuff I've been making over at my [YouTube](https://www.youtube.com/@uniqueuserwhat)
+- You can see my photography at my incredibly outdated and semi-abandoned [deviantart](https://www.deviantart.com/nousernamesleft)
 
-You can see my photography at my incredibly outdated and semi-abandoned [deviantart](https://www.deviantart.com/nousernamesleft)
-And you can see all the video projects and stuff I've been making over at my youtube: here
 
 The YouTube is WAY more active, and I've got some stuff I've worked on for school there, so check it out!
 Don't forget to like and subscribe!
