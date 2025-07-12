@@ -1,21 +1,5 @@
-# Hi there 👋
-My name is Thomas. This is my special repository, where I'm practicing markdown, instead of HTML, which are two very different things.
-
-
-<!--
-**tcostale/tcostale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... test
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Oh hi 👋
+My name is Thomas. This is my special repository, where I'm practicing markdown, instead of HTML, which are two  different things apparently.
 
 ## About Me and School
 I'm currently a junior level student working towards a GIT degree, specializing in photography and film. My interests include photography and video editing (no surprises there), but also include gaming, and most recently lock picking.
@@ -31,14 +15,8 @@ I'm attending ASU through Starbucks College Achievement Plan, where I have been 
 
 ## Links and Profiles
 
-- You can see all the video projects and stuff I've been making over at my [YouTube](https://www.youtube.com/@uniqueuserwhat) This is by far currently my most active site, being the main hosting source for all my school work and the few fun side projects I've completed.
+- You can see all the video projects and stuff I've been making over at my [YouTube](https://www.youtube.com/@uniqueuserwhat). This is by far currently my most active site, being the main hosting source for all my school work and the few fun side projects I've completed.
 
 - You can see my photography at my incredibly outdated and semi-abandoned [DeviantArt](https://www.deviantart.com/nousernamesleft).
 
-- If you want to get all professional, you can creep on my [LinkedIn](https://www.linkedin.com/in/tacostales/) I'm not on there very much (yet) so it's a little bare.
-
-
-
-This one time, for one of the assignments in one of my classes, I drew two impossible shapes. It was incredibly difficult, but I'm very proud of them, and that's why I'm including a photo of each.
-
-Look at them. They're amazing.
+- If you want to get all professional, you can creep on my [LinkedIn](https://www.linkedin.com/in/tacostales/). I'm not on there very much (yet) so it's a little bare.
