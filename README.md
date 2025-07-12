@@ -6,6 +6,8 @@ I'm currently a junior level student working towards a GIT degree, specializing 
 
 I'm attending ASU through Starbucks College Achievement Plan, where I have been working for over 10 years. I started as a barista and promoted all the way up to Store Manager Trainer, before I suffered a work injury. During recovery, I stepped down to Shift Supervisor and began attending school to further my horizons and obtain a college degree.
 
+My hope is to use my degree to pursue an occupation in video editing. 
+
 ## Skills and Hobbies
 - I came into GIT 215 knowing a little bit about HTML. I had a class way back in highschool that had a brief section where we covered the basics, and most recently, one of the college courses I took last Fall had a small section covering HTML as well. It's always been fun messing around with coding like this, but I'm very inexperienced and haven't ever done anything with Java or CSS.
 
