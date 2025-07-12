@@ -28,5 +28,5 @@ I added a widget! Isn't that cool?
 
 ...Ha ha, these stats are so unimpressive.
 
-### Thanks for visiting
+## Thanks for visiting
 I hope you have a great day and an even better week!
